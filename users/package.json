@@ -9,7 +9,7 @@
     "fc":"node cli.mjs find-or-create --password me --family-name me --given-name me --email k191451@nu.edu.pk me"
 
   },
-  "author": "David Herron <david@davidherron.com>",
+  "author": "credits to David Herron <david@davidherron.com>",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.x",
